@@ -17,7 +17,7 @@
 
 5. cd /usr/lib/android-sdk/cmdline-tools
 
-6. sudo  wget https://dl.google.com/android/repository/commandlinetools-linux-6609375_latest.zip
+6. sudo  wget https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
 
 7. sudo unzip commandlinetools-linux-6609375_latest.zip 
 
