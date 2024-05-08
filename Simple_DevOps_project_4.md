@@ -19,11 +19,11 @@
 
 6. sudo  wget https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
 
-7. sudo unzip commandlinetools-linux-6609375_latest.zip 
+7. sudo unzip commandlinetools-linux-11076708_latest.zip 
 
-8. sudo rm commandlinetools-linux-6609375_latest.zip  
+8. sudo rm commandlinetools-linux-11076708_latest.zip  
 
-9. rm commandlinetools-linux-6609375_latest.zip 
+ // 9. rm commandlinetools-linux-6609375_latest.zip 
 
 10. export ANDROID_HOME=/usr/lib/android-sdk/
 
