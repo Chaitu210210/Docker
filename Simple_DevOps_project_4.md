@@ -39,7 +39,7 @@
 
 16. yes | sdkmanager --licenses
 
-17.  yes | sdkmanager "platform-tools" "platforms;android-29"
+17.  yes | sdkmanager "platform-tools" "platforms;android-34"
 
 ```
 
